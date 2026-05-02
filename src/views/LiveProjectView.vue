@@ -9,7 +9,14 @@
         E-commerce Website
       </a>
     </div>
-  
+    <div class="bg-purple-300 mb-4 p-2 rounded-md shadow-md">
+      <a
+        class="font-bold text-xl"
+        href="https://reactjs-browser-movie-app.vercel.app/"
+      >
+       React Movie App</a
+      >
+    </div>
 <div class="bg-purple-300 mb-4 p-2 rounded-md shadow-md">
       <a
         class="font-bold text-xl"
@@ -31,6 +38,7 @@
         CountDown App</a
       >
     </div>
+     
   </div>
 </template>
 <script setup></script>
