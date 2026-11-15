@@ -1,41 +1,15 @@
-# Vue Tailwind Portfolio
+# Vue.js Frontend Developer Portfolio
 
-Fancy and minimal portfolio made on VUE JS and Tailwind CSS.
+A clean, responsive developer portfolio built with Vue.js to present my frontend engineering projects and technical stack.
+
+**Live Demo:** [Add Your Vercel/Netlify Link Here]
 
 ## Features
+- **Component-Based Architecture:** Modular Vue components for navigation, skills grid, and project cards.
+- **Responsive Layout:** Optimized for seamless viewing across mobile and desktop screens.
+- **Direct Project Access:** Quick links to live demos and GitHub repositories.
 
-- Light/dark mode toggle
-- Fetched Projects from github repositories
-- Responsive
-
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/tahira17/Portfolio
-```
-
-Go to the project directory
-
-```bash
-  cd vue-tailwind-portfolio
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run dev
-```
-
-Build the project
-
-```bash
-  npm run build
-```
+## Tech Stack
+- Vue.js
+- Tailwind CSS
+- Deployed on Vercel
