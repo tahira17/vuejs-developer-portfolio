@@ -2,7 +2,7 @@
 
 A clean, responsive developer portfolio built with Vue.js to present my frontend engineering projects and technical stack.
 
-**Live Demo:** [Add Your Vercel/Netlify Link Here]
+**Live Demo:** (https://vue-js-portfolio.netlify.app/)
 
 ## Features
 - **Component-Based Architecture:** Modular Vue components for navigation, skills grid, and project cards.
@@ -12,4 +12,4 @@ A clean, responsive developer portfolio built with Vue.js to present my frontend
 ## Tech Stack
 - Vue.js
 - Tailwind CSS
-- Deployed on Vercel
+- Deployed on Netlify
